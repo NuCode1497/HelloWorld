@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelloWorldWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Hello World Program" Height="350" Width="525">
     <Grid>
-        <Label Content="Hello World" />
+        <Label Content="Hello World. Some stuff was changed." />
     </Grid>
 </Window>
